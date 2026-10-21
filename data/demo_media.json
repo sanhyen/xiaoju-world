@@ -1,0 +1,350 @@
+[
+  {
+    "path": "assets/media/bay_life/life_01.jpg",
+    "variant": 1,
+    "size": [
+      719,
+      960
+    ]
+  },
+  {
+    "path": "assets/media/bay_life/life_02.jpg",
+    "variant": 3,
+    "size": [
+      713,
+      960
+    ]
+  },
+  {
+    "path": "assets/media/bay_life/life_03.jpg",
+    "variant": 5,
+    "size": [
+      709,
+      960
+    ]
+  },
+  {
+    "path": "assets/media/bay_life/life_04.jpg",
+    "variant": 1,
+    "size": [
+      714,
+      960
+    ]
+  },
+  {
+    "path": "assets/media/bay_life/life_05.jpg",
+    "variant": 3,
+    "size": [
+      717,
+      960
+    ]
+  },
+  {
+    "path": "assets/media/bay_life/life_06.jpg",
+    "variant": 5,
+    "size": [
+      621,
+      960
+    ]
+  },
+  {
+    "path": "assets/media/bay_life/life_07.jpg",
+    "variant": 1,
+    "size": [
+      509,
+      960
+    ]
+  },
+  {
+    "path": "assets/media/bay_life/life_08.jpg",
+    "variant": 3,
+    "size": [
+      720,
+      960
+    ]
+  },
+  {
+    "path": "assets/media/bay_life/poster_moon_episode8.jpg",
+    "variant": 5,
+    "size": [
+      960,
+      540
+    ]
+  },
+  {
+    "path": "assets/media/bay_life/poster_rehearsal.jpg",
+    "variant": 1,
+    "size": [
+      960,
+      540
+    ]
+  },
+  {
+    "path": "assets/media/bay_life/poster_sunset.jpg",
+    "variant": 3,
+    "size": [
+      960,
+      540
+    ]
+  },
+  {
+    "path": "assets/media/bay_life/poster_wall_stage.jpg",
+    "variant": 5,
+    "size": [
+      960,
+      540
+    ]
+  },
+  {
+    "path": "assets/media/dual106/blossom.jpg",
+    "variant": 2,
+    "size": [
+      640,
+      360
+    ]
+  },
+  {
+    "path": "assets/media/dual106/blossom.ogg",
+    "variant": 4
+  },
+  {
+    "path": "assets/media/dual106/blossom.ogv",
+    "variant": 0
+  },
+  {
+    "path": "assets/media/dual106/daily.jpg",
+    "variant": 2,
+    "size": [
+      640,
+      360
+    ]
+  },
+  {
+    "path": "assets/media/dual106/daily.ogg",
+    "variant": 4
+  },
+  {
+    "path": "assets/media/dual106/daily.ogv",
+    "variant": 0
+  },
+  {
+    "path": "assets/media/dual106/everyday.jpg",
+    "variant": 2,
+    "size": [
+      640,
+      360
+    ]
+  },
+  {
+    "path": "assets/media/dual106/everyday.ogg",
+    "variant": 4
+  },
+  {
+    "path": "assets/media/dual106/everyday.ogv",
+    "variant": 0
+  },
+  {
+    "path": "assets/media/dual106/frost.jpg",
+    "variant": 2,
+    "size": [
+      640,
+      358
+    ]
+  },
+  {
+    "path": "assets/media/dual106/frost.ogg",
+    "variant": 4
+  },
+  {
+    "path": "assets/media/dual106/frost.ogv",
+    "variant": 0
+  },
+  {
+    "path": "assets/media/dual106/poem.jpg",
+    "variant": 2,
+    "size": [
+      640,
+      268
+    ]
+  },
+  {
+    "path": "assets/media/dual106/poem.ogg",
+    "variant": 4
+  },
+  {
+    "path": "assets/media/dual106/poem.ogv",
+    "variant": 0
+  },
+  {
+    "path": "assets/media/dual106/studio.jpg",
+    "variant": 2,
+    "size": [
+      640,
+      360
+    ]
+  },
+  {
+    "path": "assets/media/dual106/studio.ogg",
+    "variant": 4
+  },
+  {
+    "path": "assets/media/dual106/studio.ogv",
+    "variant": 0
+  },
+  {
+    "path": "assets/media/dual106/waiting.jpg",
+    "variant": 2,
+    "size": [
+      640,
+      360
+    ]
+  },
+  {
+    "path": "assets/media/dual106/waiting.ogg",
+    "variant": 4
+  },
+  {
+    "path": "assets/media/dual106/waiting.ogv",
+    "variant": 0
+  },
+  {
+    "path": "assets/media/moon_episode8.ogv",
+    "variant": 2
+  },
+  {
+    "path": "assets/media/portrait_01.jpg",
+    "variant": 4,
+    "size": [
+      715,
+      960
+    ]
+  },
+  {
+    "path": "assets/media/portrait_02.jpg",
+    "variant": 0,
+    "size": [
+      960,
+      640
+    ]
+  },
+  {
+    "path": "assets/media/portrait_03.jpg",
+    "variant": 2,
+    "size": [
+      689,
+      960
+    ]
+  },
+  {
+    "path": "assets/media/portrait_04.jpg",
+    "variant": 4,
+    "size": [
+      768,
+      960
+    ]
+  },
+  {
+    "path": "assets/media/portrait_05.jpg",
+    "variant": 0,
+    "size": [
+      635,
+      960
+    ]
+  },
+  {
+    "path": "assets/media/portrait_06.jpg",
+    "variant": 2,
+    "size": [
+      640,
+      960
+    ]
+  },
+  {
+    "path": "assets/media/portrait_07.jpg",
+    "variant": 4,
+    "size": [
+      720,
+      960
+    ]
+  },
+  {
+    "path": "assets/media/portrait_08.jpg",
+    "variant": 0,
+    "size": [
+      640,
+      960
+    ]
+  },
+  {
+    "path": "assets/media/portrait_09.jpg",
+    "variant": 2,
+    "size": [
+      960,
+      640
+    ]
+  },
+  {
+    "path": "assets/media/portrait_10.jpg",
+    "variant": 4,
+    "size": [
+      661,
+      960
+    ]
+  },
+  {
+    "path": "assets/media/portrait_11.jpg",
+    "variant": 0,
+    "size": [
+      720,
+      960
+    ]
+  },
+  {
+    "path": "assets/media/portrait_12.jpg",
+    "variant": 2,
+    "size": [
+      720,
+      960
+    ]
+  },
+  {
+    "path": "assets/media/records_sunset_still.png",
+    "variant": 4,
+    "size": [
+      640,
+      480
+    ]
+  },
+  {
+    "path": "assets/media/records_wall_still.png",
+    "variant": 0,
+    "size": [
+      852,
+      480
+    ]
+  },
+  {
+    "path": "assets/media/rehearsal.ogv",
+    "variant": 2
+  },
+  {
+    "path": "assets/media/sunset.ogg",
+    "variant": 4
+  },
+  {
+    "path": "assets/media/sunset.ogv",
+    "variant": 0
+  },
+  {
+    "path": "assets/media/wall_audio.ogg",
+    "variant": 2
+  },
+  {
+    "path": "assets/media/wall_audio.ogv",
+    "variant": 4
+  },
+  {
+    "path": "assets/media/wall_stage.ogv",
+    "variant": 0
+  }
+]

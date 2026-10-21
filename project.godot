@@ -1,0 +1,29 @@
+; Xiaoju World — native Godot local project
+config_version=5
+
+[application]
+config/name="小鞠世界 · 开源试玩版"
+config/version="0.12.0-open.1"
+run/main_scene="res://scenes/world/main.tscn"
+config/features=PackedStringArray("4.7", "Mobile")
+config/description="非官方同人探索乐园 · 开源试玩版 · 原创演示媒体"
+
+[display]
+window/size/viewport_width=1920
+window/size/viewport_height=1080
+window/size/window_width_override=1280
+window/size/window_height_override=720
+window/stretch/mode="canvas_items"
+
+[rendering]
+rendering_device/driver.windows="vulkan"
+renderer/rendering_method="mobile"
+renderer/rendering_method.mobile="mobile"
+textures/default_filters/use_nearest_mipmap_filter=false
+anti_aliasing/quality/msaa_3d=2
+lights_and_shadows/directional_shadow/size=4096
+lights_and_shadows/directional_shadow/soft_shadow_filter_quality=2
+environment/defaults/default_clear_color=Color(0.65,0.79,0.83,1)
+
+[physics]
+common/physics_ticks_per_second=60

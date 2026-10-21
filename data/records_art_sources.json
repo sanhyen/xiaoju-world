@@ -1,0 +1,17 @@
+{
+  "created_at": "2026-10-21",
+  "items": [
+    {
+      "asset_id": "sunset",
+      "title": "海风演示 01",
+      "derived_path": "assets/media/records_sunset_still.png",
+      "rights": "MIT"
+    },
+    {
+      "asset_id": "wall_audio",
+      "title": "海风演示 05",
+      "derived_path": "assets/media/records_wall_still.png",
+      "rights": "MIT"
+    }
+  ]
+}

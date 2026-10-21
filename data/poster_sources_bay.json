@@ -1,0 +1,66 @@
+[
+  {
+    "id": "poster_sunset",
+    "runtime_path": "assets/media/bay_life/poster_sunset.jpg",
+    "source_program": "sunset",
+    "source_runtime_path": "assets/media/sunset.ogv",
+    "poster_sha256": "21449a66edb13a77aeeb1605b3bd19b2ea9a4c61815ee609080a8f5446212108",
+    "primary_venue": "B06",
+    "category": "原创演示封面",
+    "permission": "MIT",
+    "source_record": {
+      "title": "本项目原创几何海景",
+      "publisher": "sanhyen / Xiaoju World",
+      "rights": "MIT",
+      "post_url": "https://github.com/sanhyen/xiaoju-world/blob/main/docs/MEDIA.md"
+    }
+  },
+  {
+    "id": "poster_moon_episode8",
+    "runtime_path": "assets/media/bay_life/poster_moon_episode8.jpg",
+    "source_program": "moon_episode8",
+    "source_runtime_path": "assets/media/moon_episode8.ogv",
+    "poster_sha256": "1446087eceb04363d31104338b2996c345e0dc6d7aaf3abd31cc333f92bf3b91",
+    "primary_venue": "B06",
+    "category": "原创演示封面",
+    "permission": "MIT",
+    "source_record": {
+      "title": "本项目原创几何海景",
+      "publisher": "sanhyen / Xiaoju World",
+      "rights": "MIT",
+      "post_url": "https://github.com/sanhyen/xiaoju-world/blob/main/docs/MEDIA.md"
+    }
+  },
+  {
+    "id": "poster_rehearsal",
+    "runtime_path": "assets/media/bay_life/poster_rehearsal.jpg",
+    "source_program": "rehearsal",
+    "source_runtime_path": "assets/media/rehearsal.ogv",
+    "poster_sha256": "04c83d09cafc70ef02cf61730018c831862d380f7636cdc590b13e0a8c15d5d8",
+    "primary_venue": "B08",
+    "category": "原创演示封面",
+    "permission": "MIT",
+    "source_record": {
+      "title": "本项目原创几何海景",
+      "publisher": "sanhyen / Xiaoju World",
+      "rights": "MIT",
+      "post_url": "https://github.com/sanhyen/xiaoju-world/blob/main/docs/MEDIA.md"
+    }
+  },
+  {
+    "id": "poster_wall_stage",
+    "runtime_path": "assets/media/bay_life/poster_wall_stage.jpg",
+    "source_program": "wall_stage",
+    "source_runtime_path": "assets/media/wall_stage.ogv",
+    "poster_sha256": "509a56641375590e748a87589c6fc5d8e64539f26a0be2c322fd16eb70655368",
+    "primary_venue": "B10",
+    "category": "原创演示封面",
+    "permission": "MIT",
+    "source_record": {
+      "title": "本项目原创几何海景",
+      "publisher": "sanhyen / Xiaoju World",
+      "rights": "MIT",
+      "post_url": "https://github.com/sanhyen/xiaoju-world/blob/main/docs/MEDIA.md"
+    }
+  }
+]

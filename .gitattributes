@@ -1,0 +1,13 @@
+# Godot's world manifest verifies source bytes. Keep resource/source line endings.
+* -text
+*.py text eol=lf
+*.md text eol=lf
+*.cmd text eol=crlf
+*.scn binary
+*.bin binary
+*.jpg binary
+*.png binary
+*.ogg binary
+*.ogv binary
+*.wav binary
+*.ttf binary

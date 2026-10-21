@@ -1,0 +1,741 @@
+{
+  "edition": "0.12.0-open.1",
+  "media_generator": "tools/generate_demo_media.py",
+  "assets": [
+    {
+      "path": "assets/media/bay_life/life_01.jpg",
+      "bytes": 31355,
+      "sha256": "a0b2c9c36f2d7ebc5132c945e223be06bcdc86987b3d0404afd4e40b8720efd4",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/bay_life/life_02.jpg",
+      "bytes": 32067,
+      "sha256": "111a194bcf6af74501a3c2b84fad8873e871aad4abe7c190b1feb10395411f4f",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/bay_life/life_03.jpg",
+      "bytes": 32571,
+      "sha256": "2e60830661c54363e3f6e9cfa23edf0c182196f1b22c72385762e96965952a40",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/bay_life/life_04.jpg",
+      "bytes": 31067,
+      "sha256": "1f4108809418de037209589b3e76f6d7f6db371226e633392227bd0fdddb85dc",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/bay_life/life_05.jpg",
+      "bytes": 31944,
+      "sha256": "e0eff9c7e79115fe1be1b74bd01027305bb170fd8113aa9b818704944d5867f8",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/bay_life/life_06.jpg",
+      "bytes": 28696,
+      "sha256": "8c0e25b663105b6ec157323bb0d705ffc525b424abc4974fe0935c3dca1efc5a",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/bay_life/life_07.jpg",
+      "bytes": 23102,
+      "sha256": "bc434d0ee52ba2d3b53cebf9617c16a8822f67ba9fec69c1d6c03f254f4c2c34",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/bay_life/life_08.jpg",
+      "bytes": 31960,
+      "sha256": "99f4ab0e18454facc694fdccdb0a8725af6fa665bfb44fc68d93997827c9a093",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/bay_life/poster_moon_episode8.jpg",
+      "bytes": 25882,
+      "sha256": "1446087eceb04363d31104338b2996c345e0dc6d7aaf3abd31cc333f92bf3b91",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/bay_life/poster_rehearsal.jpg",
+      "bytes": 24682,
+      "sha256": "04c83d09cafc70ef02cf61730018c831862d380f7636cdc590b13e0a8c15d5d8",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/bay_life/poster_sunset.jpg",
+      "bytes": 25772,
+      "sha256": "21449a66edb13a77aeeb1605b3bd19b2ea9a4c61815ee609080a8f5446212108",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/bay_life/poster_wall_stage.jpg",
+      "bytes": 25814,
+      "sha256": "509a56641375590e748a87589c6fc5d8e64539f26a0be2c322fd16eb70655368",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/dual106/blossom.jpg",
+      "bytes": 15551,
+      "sha256": "140c75835d5ee6b643f6da7551d69dda8a9daec0bb692a821bdc75b721603d40",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/dual106/blossom.ogg",
+      "bytes": 25088,
+      "sha256": "4deefdd7d41b48165077bffbde98461be025b91e09e185690fcdbe08fcb03737",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/dual106/blossom.ogv",
+      "bytes": 79213,
+      "sha256": "6a4281855949ae77c1c347776734489d0d76510fd844fa85c9763e62f30c35c4",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/dual106/daily.jpg",
+      "bytes": 15551,
+      "sha256": "cb90445dd1d8bc09b6dff3a91757ba6e0b4697a3d4ddc15947719b2b3968324e",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/dual106/daily.ogg",
+      "bytes": 25088,
+      "sha256": "24d8d08238db104f23b95e8e66ef56d2a6bbe05080c17f1ac6c7b7a9ae899a45",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/dual106/daily.ogv",
+      "bytes": 79157,
+      "sha256": "3dfe7f3f93d7660b72ad2f8a9a6925378afbebc70ebc3aec9542b65b1645a547",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/dual106/everyday.jpg",
+      "bytes": 15547,
+      "sha256": "7d15db68aad294a53c5f37bf03057c37d6632a3d5060bfa841af7e49c592df25",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/dual106/everyday.ogg",
+      "bytes": 25088,
+      "sha256": "ec0e7e10a2ee2aac9f6d637339f858f39600e8c0f9e30190d1a17f7bdd1173e8",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/dual106/everyday.ogv",
+      "bytes": 79245,
+      "sha256": "bd3b7cb9af33af1542bc2da7adead635089dff6ee2d54b597fb1c08729544ca1",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/dual106/frost.jpg",
+      "bytes": 17787,
+      "sha256": "ac9be302ff6095fec2779a70a0473aaefb24112daaa962b74ab999af1770e78c",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/dual106/frost.ogg",
+      "bytes": 25088,
+      "sha256": "d1ec898b850f1065277b3b0f6b22b02514336587792f0f286cc86fae7874444c",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/dual106/frost.ogv",
+      "bytes": 79405,
+      "sha256": "abe9240f4376d740073e9d9c5be70c4f94548203d3fd62c960ce244c01568966",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/dual106/poem.jpg",
+      "bytes": 14739,
+      "sha256": "dac6c94f63621c2d349400e22c6e49f79170b340a0cc646462e3ddd799472d16",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/dual106/poem.ogg",
+      "bytes": 25088,
+      "sha256": "e530972d8b3ace45e55ec7d096569c6ededb480f3ea497360205b6bc50127521",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/dual106/poem.ogv",
+      "bytes": 79245,
+      "sha256": "da5b3560b75c6ce3e4f7ec0ba9890bb4685dfb5ab77295a66491df5131373528",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/dual106/studio.jpg",
+      "bytes": 15550,
+      "sha256": "b8c5c895cd0ab8c9d3c6234da9a531202dbf884b78015688c5d4e4d4d2da9085",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/dual106/studio.ogg",
+      "bytes": 25088,
+      "sha256": "662ed090b58eb270bd03e030a920bdc0d3908051798119d20535a44e93220a12",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/dual106/studio.ogv",
+      "bytes": 79253,
+      "sha256": "61abffe6758a707b2f2fa3ef0776acd2f85a86dbd8c1229b41852353056655de",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/dual106/waiting.jpg",
+      "bytes": 15551,
+      "sha256": "2335a87d8f04fa0d5326394392002ae3b7fbc9c039cb83f35ccdf650923d6d78",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/dual106/waiting.ogg",
+      "bytes": 25088,
+      "sha256": "ff6a9f5e99c4ff0e3ebaf060066db180455438e1bf13f8f0fedbe99524745e58",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/dual106/waiting.ogv",
+      "bytes": 79253,
+      "sha256": "c15fe6bdb79eab2c4aec02120c061a275611cfe8e3dcd6e96baa9a3184edc079",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/moon_episode8.ogv",
+      "bytes": 78724,
+      "sha256": "34b7ce10cd6348b3d32bd638a3359c17e19400424c3d956044e2c645b5909d2f",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/portrait_01.jpg",
+      "bytes": 29990,
+      "sha256": "7e22ab71990627bd9d1323a94d1ddc80b2abba0fc46620145dfc886e4861ecca",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/portrait_02.jpg",
+      "bytes": 32101,
+      "sha256": "6931c7c47cd44022d15e642ef5c65e849832da4ea3116d5c0396f932504892bc",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/portrait_03.jpg",
+      "bytes": 30473,
+      "sha256": "6814c9faf4785b4e17b98e1ae02be8cb7d53ae31060b3a9118d42c18364cdfa9",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/portrait_04.jpg",
+      "bytes": 32322,
+      "sha256": "a9a2d390b701dd04fbe949f707d2ac25ada6f65d27a31c1ad1adb0992d468b2a",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/portrait_05.jpg",
+      "bytes": 28616,
+      "sha256": "f935187c3794135e5701db8e26ee39648a614176777df3f2834a8cfce3628c28",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/portrait_06.jpg",
+      "bytes": 28136,
+      "sha256": "49bc2418eb2153c1fedbf9cfd8f3266ed5fce398310c84835ebfe077de992f8e",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/portrait_07.jpg",
+      "bytes": 30254,
+      "sha256": "bb496a7791a963c4fbbb631b2f08758165ba2d25d2775618d472c18d2a0b11fc",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/portrait_08.jpg",
+      "bytes": 28549,
+      "sha256": "5188e82456e946b702feb7c525734c9e9fca8de84c495293064107e9bb5a5291",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/portrait_09.jpg",
+      "bytes": 31571,
+      "sha256": "1d644b7fa569f2e2440881b10a4337f4419ceecb1e0eda538f8e8a4f45a4a9ea",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/portrait_10.jpg",
+      "bytes": 28300,
+      "sha256": "26b9b48bafe34a36d3d0eea27b0a5e2a632571c769e882a1d2caa96be734c938",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/portrait_11.jpg",
+      "bytes": 31988,
+      "sha256": "cb0c404e002f629457f5e17677d130851bfd5129a7ed85f8fdbe19c50d5a1032",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/portrait_12.jpg",
+      "bytes": 31413,
+      "sha256": "871091d1f07faabe31ff06454f53c7a2bc8b76ee0b22ba2fc792cb43e6355174",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/records_sunset_still.png",
+      "bytes": 6434,
+      "sha256": "c9ac96b2abf717f86e759bcd15c44a1deb45d0266abb3af1b645ff755603913f",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/records_wall_still.png",
+      "bytes": 7353,
+      "sha256": "efd4f45eb66c902a978d27ffe71bb956d3c49f6e148c13af420058aa8f026a5e",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/rehearsal.ogv",
+      "bytes": 78604,
+      "sha256": "cc61a66db1c2c46e76a680db1fc0597f2e16452944f17e09631040925e42b574",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/sunset.ogg",
+      "bytes": 25088,
+      "sha256": "8098c6c3a9057d4275a8437a9f95dac9b0ef654bc4c9166d093d058784e1dd41",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/sunset.ogv",
+      "bytes": 79149,
+      "sha256": "390961ce9cefef2784a7b002315a6d4f8f2096938e6d42758da405d483938423",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/wall_audio.ogg",
+      "bytes": 25088,
+      "sha256": "66d8268de2b378e562cfaa11abc87c5a7ce66ca30cdafe6acb5ad49ffcdf46a0",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/wall_audio.ogv",
+      "bytes": 73932,
+      "sha256": "2bbbbb5eebb2b2e612a29732ca5a7168148e017379bb1d4ea36b8d52899c27b7",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/media/wall_stage.ogv",
+      "bytes": 79309,
+      "sha256": "19f755f794bbda06d8baae61967d27ebce4ddab31f033feca5bde36cfaecdba9",
+      "license": "MIT",
+      "origin": "Project procedural generation"
+    },
+    {
+      "path": "assets/audio/bay/arrival.wav",
+      "bytes": 882044,
+      "sha256": "850f2d5383580ba4d761948054309a5704a2b586a360dd76106f5a8c38d53251",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/beat.wav",
+      "bytes": 3132,
+      "sha256": "ad4dd19afca7ccae8f33c270f0fc46e94fa0619d1555b1b6433040b481874c95",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/bell.wav",
+      "bytes": 24300,
+      "sha256": "d3e4f2b75f9c02897d1aa66f7f1230e8e21505206b75ac23b1c191eed05133bd",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/book.wav",
+      "bytes": 882044,
+      "sha256": "d44a70a658f42d92d189a5f8df6efbc8f85eaedba9363ca4f4091aca6289e17a",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/cafe.wav",
+      "bytes": 882044,
+      "sha256": "68836a52e96c232cc0be5ffe0fade24422585df40af144d1b91934d80e702300",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/cat.wav",
+      "bytes": 79424,
+      "sha256": "20a190278a83e62d73dd5984656e325cd0eb329831e36ed8565740b2d7054c45",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/craft.wav",
+      "bytes": 882044,
+      "sha256": "11ee778f27316a49625003383b3624f571475295c329e3c6351a61c74fe3b80c",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/craft_hit.wav",
+      "bytes": 7982,
+      "sha256": "f7315729979f8baa4834fe4203e82142b611a8feafa4f893b2c227b635d74ce1",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/cup.wav",
+      "bytes": 7100,
+      "sha256": "a3ead918888996432c7460e77e735756236967a632058c5fa9647af3ae251163",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/fire.wav",
+      "bytes": 352844,
+      "sha256": "31bf11e6a6a90ef9a33b9d3f5b80a55d7902ffb5b4f7bc67d2e14b46983a4095",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/gallery.wav",
+      "bytes": 882044,
+      "sha256": "0135fcc3c282bfc8503079b3b0677fe15bdbd262e124c0a2cae6a27aa918aa03",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/garden.wav",
+      "bytes": 882044,
+      "sha256": "0b2367a474c588e7880f12983ff475b5c13a3991a8b2a32ddfca43e2d7208cd1",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/gull.wav",
+      "bytes": 18566,
+      "sha256": "6b41ace15ba022348e020201ad3c188e8ea574e3e099ad9174fc4f40c1663302",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/home.wav",
+      "bytes": 352844,
+      "sha256": "3b3d289b49eabb20aea2dc0a566ab8cb10fb4661947404358ab19ba99005c432",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/horn.wav",
+      "bytes": 12392,
+      "sha256": "b564ef4e27a4a6aeb6f21fdc5e88677a92e03acccbbb97eae7f03c5405c0a60f",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/mix_0.wav",
+      "bytes": 882044,
+      "sha256": "43eaa2135c6bc3539e79fbd2bbff5cad13f5a625c7a42d8a3b4a1c019e257e52",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/mix_1.wav",
+      "bytes": 882044,
+      "sha256": "9e8e2209c749d6ac50a4a66caaa561e89da9bf6f97e650adbae12964adfeaadd",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/mix_2.wav",
+      "bytes": 882044,
+      "sha256": "eebd740dfffe215135205d1456749741836bfbca4236edc770bf3f2a6ba18f77",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/mix_3.wav",
+      "bytes": 882044,
+      "sha256": "1685bd4da5116a96751f7d22cdaf39c60b0c9fd26ab4b06d58399da0616e9bfc",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/page.wav",
+      "bytes": 352844,
+      "sha256": "7a986fd9089ec474f80bcc73283d158b4089a5b495755223a43a5f9ffb9adb05",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/pour.wav",
+      "bytes": 30914,
+      "sha256": "b60f6c66f404ed167a3bd05e8f709429f2dc5a4a09568e9973b2239a4ffe8230",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/records.wav",
+      "bytes": 352844,
+      "sha256": "875287eb0c8b6b01fa2716043063b8a6a9ad7f094f912e08b4bd7afa890ac34a",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/rehearsal.wav",
+      "bytes": 352844,
+      "sha256": "beca6e2655b864e18b4e263f290226501c6f5b62ab4fc4e9ed9e75085708a50c",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/sea_room.wav",
+      "bytes": 352844,
+      "sha256": "346a2aaced48f6fcc13c5f275285b0396aa589e2c6beb2362b21352315cd7033",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/stage.wav",
+      "bytes": 352844,
+      "sha256": "fc03a33df95233bcdc821f5a884e5807320b3b49a8bcc8d3f4df9db545316dce",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/step.wav",
+      "bytes": 4454,
+      "sha256": "5312d4fe63b4fc6eabd532f472840243ce76c38e0e39e6c18c4d875e2015b376",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/step_grass.wav",
+      "bytes": 7100,
+      "sha256": "8e138c3901ecc9c7e1e24a45ae41bfa5b9def9229b4e4472622c67e62ee628cf",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/step_sand.wav",
+      "bytes": 8422,
+      "sha256": "7f1100500dce146d9504df0379ad8a6d3c46002b3d6721447c862cc29156b3f4",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/step_stone.wav",
+      "bytes": 4012,
+      "sha256": "c3c9b05b6568cc0f3157575b161b12bdbb5bdf3306a902d6c47900f7e71b62ed",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/step_water.wav",
+      "bytes": 10628,
+      "sha256": "921dcab6eecf5eecbaa9120fee7c44246a3786a35c45243387f85423feee3691",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/step_wood.wav",
+      "bytes": 5776,
+      "sha256": "3c1369c40ab0f3b66533e867abd55d7d8e6f947f77c8c6b1634227688f86ae00",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/studio.wav",
+      "bytes": 352844,
+      "sha256": "07e2e71572e929f1dbe205f6159fa301366e3c4c784253dec36c9f4225a698d1",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/tea.wav",
+      "bytes": 882044,
+      "sha256": "9f9b2075f1f35edba7973e257d3779c85ee2dbab99e24a0b26eae5f687bbbfa6",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/bay/visitor.wav",
+      "bytes": 352844,
+      "sha256": "bcf46b5680bbc3dfaf2c85094ac87bf5139f866e07237aab72a088e1b9c7b9dc",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/sea.wav",
+      "bytes": 705644,
+      "sha256": "bf5f6951b38362316f806e7b9cb350be430372f8b229f8e454bcf1c26a400da8",
+      "license": "CC0-1.0",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/SOURCE.txt",
+      "bytes": 169,
+      "sha256": "f7df51321aba4868a44ae74f0cd27d0b728540608cc13c87ca79a521ce877063",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/waterfall.wav",
+      "bytes": 705644,
+      "sha256": "1822339420f80d6a1a13bcb89811b7a145a7edb1e367e9a5d4d48bb6b0d53602",
+      "license": "CC0-1.0",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/audio/wind.wav",
+      "bytes": 705644,
+      "sha256": "0931f9f5c076dcb29fca1ccaa76d3b3cb666da2f8f8181f4331970c6dc544b43",
+      "license": "CC0-1.0",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/fonts/NotoSansSC-Medium.ttf",
+      "bytes": 10589132,
+      "sha256": "2d9bdb22d9b4ad108182632cb86230f6ca9e1e95fa309e80de97f1f9af6fa14f",
+      "license": "SIL-OFL-1.1",
+      "origin": "Noto Sans SC"
+    },
+    {
+      "path": "assets/fonts/OFL.txt",
+      "bytes": 4388,
+      "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9",
+      "license": "SIL-OFL-1.1",
+      "origin": "Noto Sans SC"
+    },
+    {
+      "path": "assets/materials/coastal_sky.gdshader",
+      "bytes": 1482,
+      "sha256": "aaf2b5c84f9190b0bc97c5500a559260ae7c05c27737bd78a12d7d956230df92",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/materials/coastal_water.gdshader",
+      "bytes": 3906,
+      "sha256": "31abbebbbd8e920049c83ae5688374315ebe93278f842edf533aef41ac3b4c03",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/materials/coral_water_bay.gdshader",
+      "bytes": 2901,
+      "sha256": "5064db305a55bb68b678b2d0628a8d89ed1da8114043bfaa3719ddd915df5d72",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/materials/gallery_seasons_bay.gdshader",
+      "bytes": 788,
+      "sha256": "da00e289148d5f45399ee4c9a3c61a9edbd6bdf0ae382c1cda1a3d957b24a8ea",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/materials/garden_ground.gdshader",
+      "bytes": 802,
+      "sha256": "c9c5c34fe775d49e450f0af362e8aec888b66e13bd0a033efae1407efcae9a2f",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/materials/gauze_bay.gdshader",
+      "bytes": 486,
+      "sha256": "0521703e1eea5571126645db98754dd5318bd434aef2354f4c6b1e9914254727",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/materials/path_paving_079.gdshader",
+      "bytes": 1264,
+      "sha256": "5ec34ce3b3a8e55ebfc9eec253bbb961986c07714252a88a2542e64216d2f583",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/materials/terrain_field110.bin",
+      "bytes": 67108864,
+      "sha256": "d5037f5f9aa6001a2535d0eb1a427da6c9977670b01d8e0f5496688da8c75450",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/materials/terrain_strata.gdshader",
+      "bytes": 4760,
+      "sha256": "1a03bb65e05af6550377f0e443d04cc158855860b0ab37f9968a39e64d3ff202",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/materials/voxel_surface.gdshader",
+      "bytes": 1781,
+      "sha256": "cbf5b898d0eaa197dfe99212179ba12b4907e1f091142b24cefa06aca44755b8",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    },
+    {
+      "path": "assets/materials/wish_reflection_bay.gdshader",
+      "bytes": 989,
+      "sha256": "e10d7b3261da40a1010dac8b20a2519607e3defddb9cb3f73f3e4df0d5e274fe",
+      "license": "MIT",
+      "origin": "Project-original asset"
+    }
+  ]
+}

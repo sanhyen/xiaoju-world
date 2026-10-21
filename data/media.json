@@ -1,0 +1,26 @@
+{
+  "asset_id": "sunset",
+  "title": "海风演示 01",
+  "display_title": "海风演示 01 · 原创几何短片与器乐",
+  "publisher": "sanhyen / Xiaoju World",
+  "archive_publish_time": "2026-10-21",
+  "publish_time": "2026-10-21",
+  "video": "assets/media/sunset.ogv",
+  "audio": "assets/media/sunset.ogg",
+  "poster": "assets/media/records_sunset_still.png",
+  "venues": [
+    "B03",
+    "B06",
+    "B08",
+    "B09",
+    "B10",
+    "N09"
+  ],
+  "duration_s": 8.0,
+  "duration": 8.0,
+  "program_type": "music_video",
+  "rights": "MIT",
+  "post_url": "https://github.com/sanhyen/xiaoju-world/blob/main/docs/MEDIA.md",
+  "verification": "Project-original generated demonstration; not celebrity footage or music",
+  "is_demo": true
+}
